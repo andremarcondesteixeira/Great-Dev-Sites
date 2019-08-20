@@ -1,5 +1,5 @@
-# Great-Dev-Sites
-A list with awesome websites with awesome content for developers
+# Links
+Oh mY lInK!
 
 *General*
 * [It Hare](http://ithare.com/)
